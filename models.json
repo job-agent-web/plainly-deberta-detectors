@@ -1,0 +1,12 @@
+{
+  "desklib": {
+    "url": "https://job-agent-web.github.io/plainly-deberta-detectors/desklib-browser.onnx",
+    "bytes": 476623425,
+    "sha256": "d3ddabe24abb6733b81333baf9a920265fb4e1e984b9b2e91cb4fe0092b6bacb"
+  },
+  "tropa": {
+    "url": "https://job-agent-web.github.io/plainly-deberta-detectors/tropa-browser.onnx",
+    "bytes": 476635727,
+    "sha256": "7058ff1b96f78a11f83d2ff2e748ac89786035ec0c2e3d3926e12a4ac2f10d3c"
+  }
+}
